@@ -27,3 +27,15 @@
   - Azure のガバナンスとコンプライアンス機能およびツールについて説明する
   - Azure リソースを管理およびデプロイするための機能とツールについて説明する
   - Azure の監視ツールについて説明する
+
+- memo
+  - AAD Identity Protectionを用いると条件付きアクセスの設定が可能
+  - Azure Resource Managerで、Azure内のリソースを管理
+  - ローカルネットワークゲートウェイで、Azureとオンプレのネットワーク接続
+  - ネットワークセキュリティグループで、ネットワークの接続条件を管理
+  - Azure FirewallでL3-7の壁
+  - Azure Information Protectionで機密情報保護
+  - Azure Key Vaultでシークレット管理
+  - Microsoft Defender For CloudはAWS Shield
+  - Azure TCO計算ツール
+  
